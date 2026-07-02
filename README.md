@@ -3,7 +3,7 @@
 Приложения для коллекционеров монет, банкнот и других предметов коллекционирования.
 
 <p align="center">
-  <img src="https://green-enoz.github.io/images/about_phone.png" width="700" alt="Скриншот приложений">
+  <img src="https://green-enoz.github.io/images/about_phone.png" width="400" alt="Скриншот приложений">
 </p>
 
 ---
