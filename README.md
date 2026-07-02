@@ -3,7 +3,7 @@
 Приложения для коллекционеров монет, банкнот и других предметов коллекционирования.
 
 <p align="center">
-  <img src="screenshot.png" width="700" alt="Скриншот приложений">
+  <img src="https://green-enoz.github.io/images/about_phone.png" width="700" alt="Скриншот приложений">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 📥 Скачать
 
 <p>
-  <a href="https://play.google.com/store">
+  <a href="https://play.google.com/store/apps/developer?id=green.enoz">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="60" alt="Google Play">
   </a>
 </p>
@@ -69,14 +69,6 @@
 * Material Design
 * Локальное хранение коллекций
 * Поддержка пользовательских каталогов
-
----
-
-## 📷 Скриншоты
-
-<p align="center">
-  <img src="screenshot.png" width="250">
-</p>
 
 ---
 
